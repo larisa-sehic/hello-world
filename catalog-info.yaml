@@ -4,7 +4,7 @@ metadata:
   name: hello-world
   annotations:
     github.com/project-slug: "larisa-sehic/hello-world"
-    tier-info/tier: "two"
+    tier-info/tier: "2"
     additional-info/stream-lead: "John Joe"
     additional-info/engineering-manager: "Jane Doe"
 spec:
