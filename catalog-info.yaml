@@ -7,7 +7,9 @@ metadata:
     tier-info/tier: "2"
     additional-info/stream-lead: "John Joe"
     additional-info/engineering-manager: "Jane Doe"
+    
 spec:
   type: sample
   owner: larisa-sehic
   lifecycle: experimental
+  tier: "1"
