@@ -11,4 +11,4 @@ spec:
   type: sample
   owner: larisa-sehic
   lifecycle: experimental
-  tier: "0"
+  tier: group:"0"
