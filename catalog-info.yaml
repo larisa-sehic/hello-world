@@ -6,7 +6,7 @@ metadata:
     github.com/project-slug: "larisa-sehic/hello-world"
     additional-info/stream-lead: "John Joe"
     additional-info/engineering-manager: "Jane Doe"
-    sonarqube.org/project-key: 'engineering_core_segmentation_AYN4_HURmDei0uWWjS3s'
+    sonarqube.org/project-key: 'jS3s'
     
 spec:
   type: service
