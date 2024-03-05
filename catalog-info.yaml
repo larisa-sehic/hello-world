@@ -9,6 +9,6 @@ metadata:
     sonarqube.org/project-key: 'engineering_core_segmentation_AYN4_HURmDei0uWWjS3s'
     
 spec:
-  type: sample
+  type: service
   owner: larisa-sehic
   lifecycle: experimental
