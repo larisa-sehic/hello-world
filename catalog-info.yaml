@@ -7,6 +7,7 @@ metadata:
     additional-info/stream-lead: "John Joe"
     additional-info/engineering-manager: "Jane Doe"
     sonarqube.org/project-key: 'jS3s'
+    tier-info/tier: '1'
     
 spec:
   type: service
