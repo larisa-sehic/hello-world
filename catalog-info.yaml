@@ -1,14 +1,18 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: hello-world
+  name: "hello-world"
   annotations:
     github.com/project-slug: "larisa-sehic/hello-world"
-    additional-info/stream-lead: "John Joe"
-    additional-info/engineering-manager: "Jane Doe"
-    sonarqube.org/project-key: 'jS3s'
+    newrelic.com/dashboard-guid: 'MzEwNTQR8ZGE6NDUwNTEzNQ'
+    sonarqube.org/project-key: 'e4_HURmDei0uWWjS3s'
+    pagerduty.com/integration-key: 'a36133058d5c91'
+    additional-info/stream-lead: 'Jane doe'
+    additional-info/engineering-manager: 'John Doe'
+    additional-info/tech-lead: 'Unknown'
     tier-info/tier: '0'
 spec:
   type: service
-  owner: larisa-sehic
-  lifecycle: experimental
+  lifecycle: production
+  owner: darwin
+  system: platform
