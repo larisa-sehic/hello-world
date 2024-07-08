@@ -17,4 +17,4 @@ spec:
   owner: darwin
   system: platform
   dependsOn: 
-    - component:test-component-backstage]
+    - component:default/test-component-backstage]
