@@ -18,3 +18,5 @@ spec:
   system: platform
   dependsOn: 
     - component:default/test-component-backstage
+  consumesApis:
+    - internal-federation
