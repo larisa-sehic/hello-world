@@ -19,4 +19,4 @@ spec:
   dependsOn: 
     - component:default/test-component-backstage
   consumesApis:
-    - internal-federation
+    - external-federation
