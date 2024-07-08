@@ -16,3 +16,4 @@ spec:
   lifecycle: production
   owner: darwin
   system: platform
+  dependsOn: test-component-backstage
