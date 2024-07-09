@@ -10,7 +10,7 @@ metadata:
     additional-info/stream-lead: 'Jane doe'
     additional-info/engineering-manager: 'John Doe'
     additional-info/tech-lead: 'Unknown'
-    tier-info/tier: '0'
+    tier-info/tier: '1'
     test/test-info: true
 spec:
   type: service
