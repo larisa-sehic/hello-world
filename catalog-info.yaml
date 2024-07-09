@@ -11,7 +11,7 @@ metadata:
     additional-info/engineering-manager: 'John Doe'
     additional-info/tech-lead: 'Unknown'
     tier-info/tier: '1'
-    test/test-info: true
+    test/test-info: 'graphql'
 spec:
   type: service
   lifecycle: production
