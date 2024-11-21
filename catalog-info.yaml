@@ -10,6 +10,9 @@ metadata:
     additional-info/stream-lead: 'Jane doe'
     additional-info/engineering-manager: 'John Doe'
     additional-info/tech-lead: 'Unknown'
+    additional-info/testing-role-something: 'Something'
+    additional-info/sql-database: 'Admin'
+    additional-info/sql-database: 'Role'
     tier-info/tier: '1'
     test/test-info: 'graphql'
 spec:
