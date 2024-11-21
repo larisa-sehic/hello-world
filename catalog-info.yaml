@@ -17,6 +17,6 @@ spec:
   type: service
   lifecycle: production
   owner: darwin
-  system: platform
+  system: healthcomp
   dependsOn: 
     - component:default/test-component-backstage
