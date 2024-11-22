@@ -12,7 +12,7 @@ metadata:
     additional-info/tech-lead: 'Unknown'
     additional-info/testing-role-something: 'Something'
     additional-info/sql-database: 'Admin'
-    tier-info/tier: '1'
+    tier-info/tier: '1000'
 spec:
   type: service
   lifecycle: production
